@@ -79,7 +79,7 @@
 - идентификатор проекта, первичный ключ, SERIAL,  
 - название проекта VARCHAR(20))
 
-![alt text](https://github.com/Budygun/databases/blob/branch/path/bd.png)
+![alt text](https://github.com/BudyGun/databases/blob/main/img/bd.png)
 
 
 
